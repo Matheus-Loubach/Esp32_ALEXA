@@ -11,7 +11,7 @@
 #define APP_KEY           "key SinricPro"
 #define APP_SECRET        "key secret SinricPro"
 /*----------------------------------------------------------*/
-//Cortina Motor Direita
+//Motor 
 #define Exemplo_ID       "5dc1564130xxxxxxxxxxxxxx"    // exemplo "5dc1564130xxxxxxxxxxxxxx"
 #define MotorDireita_PIN 2  // Pino
 
