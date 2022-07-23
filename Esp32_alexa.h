@@ -20,7 +20,7 @@
 /*----------------------------------------------------------*/
 void setupWiFi();
 void setupSinricPro();
-bool Exemplo(const String &deviceId, bool &state);
+bool ExemploState(const String &deviceId, bool &state);
 
 // main setup
 void setup() 
